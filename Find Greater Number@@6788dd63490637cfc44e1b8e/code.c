@@ -2,9 +2,9 @@
 int main() {
     int num1,num2;
     scanf("%d %d",&num1,&num2);
-    if(a>b)
-    printf("%d",a);
+    if(num1>num2)
+    printf("%d",num1);
     else
-    printf("%d",b);
+    printf("%d",num2);
     return 0;
 }
