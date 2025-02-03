@@ -2,9 +2,9 @@
 int main() {
     int a;
     scanf("%d",&a);
-    if(a!<0)
-    prinf("True");
+    if(a!>0)
+    printf("True");
     else
-    prinf("False");
+    printf("False");
     return 0;
 }
