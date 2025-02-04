@@ -6,7 +6,7 @@ int main() {
     printf("Vowel");
     else if(a>='0' && a<='9')
     printf("Digit");
-    else if(a=='!'||a=='@'||a=='#'||a=='$'||a=='%'||a=='^'||a=='&'||a=='*'||a=='('||a==')');
+    else if(a=='!'||a=='@'||a=='#'||a=='$'||a=='%'||a=='^'||a=='&'||a=='*'||a=='('||a==')')
     printf("Special Character");
     else
     printf("Consonant");
