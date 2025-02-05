@@ -8,7 +8,7 @@ int main() {
     else if(s=='-')
     printf("%d",a-b);
     else if(s=='*')
-    printf("%d",a*b)
+    printf("%d",a*b);
     else 
     printf("%d",a/b);
     return 0;
