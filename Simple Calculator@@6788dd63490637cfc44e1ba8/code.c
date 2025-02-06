@@ -10,7 +10,7 @@ int main() {
     else if(s=='*')
     printf("%d",a*b);
     else if(s=='/' && b==0)
-    printf("Error");
+    printf("error");
     else
     printf("%d",a/b);
     return 0;
